@@ -492,3 +492,19 @@ pa-IN:
 # Another locale
 # --------------
 #
+# Vietnamese
+vi: &DEFAULT_VI
+  comments_label             : "Để lại bình luận..."
+  comments_title             : "Bình luận"
+  comment_form_info          : "Email của bạn sẽ được giữ bí mật. Những trường có dấu sao là bắt buộc."
+  comment_form_comment_label : "Bình luận"
+  comment_form_md_info       : "Bạn có thể sử dụng ngôn ngữ Markdown để bình luận."
+  comment_form_name_label    : "Tên của bạn"
+  comment_form_email_label   : "Địa chỉ email"
+  comment_form_website_label : "Website (tùy chọn)"
+  comment_btn_submit         : "Gửi bình luận"
+  comment_btn_submitted      : "Đã gửi"
+  comment_success_msg        : "Cảm ơn bạn vì đã cho nhận xét! Bình luận của bạn sẽ sớm xuất hiện trên website."
+  comment_error_msg          : "Xin lỗi, có một lỗi đã phát sinh. Làm ơn điền đầy đủ thông tin vào các ô có dấu sao và thử gửi lại."
+vi-VI:
+  <<: *DEFAULT_VI

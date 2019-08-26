@@ -109,3 +109,29 @@ ko: &KO
 
 ko-KR:
   <<: *KO
+
+
+## => Vietnamese
+########################
+vi: &VI
+  SUBSCRIBE               : "Đăng ký"
+  READMORE                : "Đọc thêm"
+  SEARCH                  : "Tìm kiếm"
+  CANCEL                  : "Hủy bỏ"
+  VIEWS                   : "views"
+  LAST_UPDATED            : "Cập nhật lần cuối"
+  PREVIOUS                : "TRƯỚC"
+  NEXT                    : "TIẾP"
+  ARTICLE_DATE_FORMAT     : "%b %d, %Y"
+  ARTICLE_LIST_DATE_FORMAT: "%b %d"
+  STATISTICS              : "[POST_COUNT] bài viết, [PAGE_COUNT] trang."
+  LICENSE_ANNOUNCE        : "Website sử dụng giấy phép [LICENSE]."
+  POST_ON_GITHUB          : "Xem trên Github"
+  FOLLOW_ME               : "Theo dõi tôi tại [NAME]."
+  FOLLOW_US               : "Theo dõi tôi tại [NAME]."
+  EMAIL_ME                : "Gửi email cho tôi."
+  EMAIL_US                : "Gửi email cho chúng tôi."
+  COPYRIGHT_DATES         : "2019"
+
+vi-VI:
+  <<: *VI

@@ -14,6 +14,8 @@ header:
       zh-HK   : *ZH_HANT
       ko      : &KO       아카이브
       ko-KR   : *KO
+      vi      : &VI       Lưu trữ
+      vi-VI   : *VI
     url: /archive.html
 
   - titles:
@@ -31,4 +33,6 @@ header:
       zh-HK   : *ZH_HANT
       ko      : &KO       소개
       ko-KR   : *KO
+      vi      : &VI       Giới thiệu
+      vi-VI   : *VI
     url: /about.html
