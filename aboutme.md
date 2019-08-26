@@ -4,10 +4,11 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Phan V. Phương. I'm instereted in:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Learning and teaching Maths.
+- Using LaTeX and Markdown.
+- Creating some rubbish-things.
 
 What else do you need?
 
