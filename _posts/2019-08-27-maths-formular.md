@@ -1,6 +1,7 @@
 ---
 layout: article
 title: Tìm điều kiện để hàm số đơn điệu
+tag: hàm số, đơn điệu
 mathjax: true
 ---
 Tìm tất cả các giá trị thực của tham số $ m $ để hàm số
