@@ -1,8 +1,8 @@
 # SITE CONFIGURATION
-baseurl: "/Type-on-Strap"
-url: "https://sylhare.github.io"
-title: Type on Strap # site's title
-description: "A website with blog posts and pages" # used by search engines
+baseurl: "/"
+url: "https://hocbaicungcon.edu.vn"
+title: Học Bài Cùng Con # site's title
+description: "Tài liệu, video học tập và giảng dạy môn Toán THPT" # used by search engines
 
 defaults:
   - 
@@ -26,14 +26,14 @@ theme_settings:
 
   # Icons
   rss: true  # Make sure you created a feed.xml with feed.xml layout
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: "hocbaicungcon@gmail.com" # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
   dribbble:
-  facebook:
+  facebook: "hocbaicungcon"
   flickr:
   gitlab:
-  github: "sylhare"
+  github: "hocbaicungcon"
   google_plus:
   instagram:
   keybase:
@@ -47,7 +47,7 @@ theme_settings:
   twitter: # "twitter username"
   vimeo:
   wordpress:
-  youtube:
+  youtube: "https://www.youtube.com/c/hocbaicungconchannel"
 
   # Sharing options
   share_buttons:
@@ -93,7 +93,7 @@ paginate_path: "blog/page:num"
 # AUTHORS
 authors:
   mhagnumdw: # author-id
-    name: MhagnumDw
+    name: Phan V. Phương
     avatar: "assets/img/avatars/mhagnumdw_avatar.jpg"
     url: 
   sylhare:
