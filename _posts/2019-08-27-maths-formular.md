@@ -2,8 +2,8 @@
 layout: post
 title: Tìm điều kiện để hàm số đơn điệu
 author: bar
-tags: [hàm-số, đơn-điệu]
-categories: [ Toán-12 ]
+tags: [hàm số, đơn điệu]
+categories: [ Toán 12 ]
 image: assets/images/ham_so.jpg
 beforetoc: "Bài giảng cung cấp cách giải và một số ví dụ tìm điều kiện của tham số để hàm số đồng biến hoặc nghịch biến trên một tập cho trước."
 toc: true
