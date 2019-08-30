@@ -4,7 +4,7 @@ title: "Học Bài Cùng Con"
 description: "Lưu trữ các video, tài liệu dạy và học môn Toán THPT."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: hocbaicungcon.edu.vn #/mediumish-theme-jekyll
+baseurl: #/mediumish-theme-jekyll
 google_analytics: 'UA-46278016-1'
 disqus: 'hocbaicungcon'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
@@ -20,7 +20,7 @@ authors:
     email: hocbaicungcon@gmail.com
     web: https://hocbaicungcon.edu.vn
     twitter: https://twitter.com/hocbaicungcon
-    description: "Giáo viên Toán trường THPT Xuân Trường B - Nam Định. Có những hiểu về Toán THPT, các phương pháp dạy học, SEO, LaTEX, Python, Ruby on Rail..."
+    description: "Giáo viên Toán trường THPT Xuân Trường B - Nam Định. Có những hiểu biết nhất định về Toán THPT, các phương pháp dạy học, SEO, LaTEX, Python, Ruby on Rail..."
 
 
 # Plugins
