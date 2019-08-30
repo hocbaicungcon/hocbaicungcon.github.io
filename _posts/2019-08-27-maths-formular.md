@@ -11,7 +11,7 @@ mathjax: true
 comments: true
 featured: true
 hidden: true
-rating: 4.5
+# rating: 4.5
 ---
 **Bài 1.** Tìm tất cả các giá trị thực của tham số $ m $ để hàm số $ f(x)=x^3-2mx^2+5x-4$ đồng biến trên tập $ \mathbb{R} $.  
 **Lời giải**
