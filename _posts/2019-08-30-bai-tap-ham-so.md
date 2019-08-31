@@ -10,7 +10,7 @@ toc: true
 mathjax: true
 comments: true
 featured: true
-hidden: true
+<!-- hidden: true -->
 ---
 
 *Bài 1.* Chứng minh hàm số $ y=\sqrt{9-x^{2}} $ nghịch biến trên khoảng $ \left(0;3\right) $ và đồng biến trên khoảng $ \left(-3;0\right) . $
